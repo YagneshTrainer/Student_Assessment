@@ -1,0 +1,13 @@
+ia/quizapp/modal/Question.class
+ia/quizapp/repo/QuestionRepository.class
+ia/quizapp/TestKey.class
+ia/quizapp/repo/UserRepository.class
+ia/quizapp/controller/QuizController.class
+ia/quizapp/service/UserService.class
+ia/quizapp/service/TestKeyService.class
+ia/quizapp/repo/TestKeyRepository.class
+ia/quizapp/QuizappApplication.class
+ia/quizapp/controller/RegistrationController.class
+ia/quizapp/modal/User.class
+ia/quizapp/exception/GlobalExceptionHandler.class
+ia/quizapp/controller/TestKeyController.class

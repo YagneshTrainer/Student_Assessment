@@ -1,0 +1,13 @@
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/QuizappApplication.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/TestKey.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/controller/QuizController.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/controller/RegistrationController.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/controller/TestKeyController.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/exception/GlobalExceptionHandler.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/modal/Question.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/modal/User.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/repo/QuestionRepository.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/repo/TestKeyRepository.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/repo/UserRepository.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/service/TestKeyService.java
+/home/ubuntu/Student-Assessment/src/main/java/ia/quizapp/service/UserService.java
